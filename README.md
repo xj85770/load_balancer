@@ -1,7 +1,3 @@
-Sure, I can help you format the README for the Load Balancer Project with different font sizes for better readability. Here's a revised version:
-
----
-
 # Load Balancer Project
 
 ## Introduction
